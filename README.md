@@ -5,7 +5,7 @@ I am Luis from Mexico
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on data analytics
 - 🤔 I’m looking for help with IT
-- 💬 Ask me about Passionate about Data 
+- 💬 Ask me about about Big Data 
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: love surfing
