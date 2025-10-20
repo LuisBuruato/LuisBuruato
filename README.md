@@ -2,7 +2,7 @@
 
 I am Luis from Mexico 
 - 🔭 I’m currently working at AVASO Technology Solutions
-- 🌱 I’m currently learning Data Engineering
+- 🌱 I’m currently studying Data Engineering
 - 👯 I’m looking to collaborate on data analytics
 - 🤔 I’m looking for help with IT
 - 💬 Ask me about about Big Data 
