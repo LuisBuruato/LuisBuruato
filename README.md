@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 I am Luis from Mexico 
-- 🔭 I’m currently working at YCS
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working at AVASO TECHNOLOGIES
+- 🌱 I’m currently learning Data Engineering
 - 👯 I’m looking to collaborate on data analytics
 - 🤔 I’m looking for help with IT
 - 💬 Ask me about about Big Data 
